@@ -1,7 +1,7 @@
 {
-  "name": "WIBUBOT",
+  "name": "Futarou-kun Botz",
   "version": "0.0.1",
-  "description": "KurrXd",
+  "description": "Futarou-kun",
   "main": "node .",
   "directories": {
     "lib": "lib"
